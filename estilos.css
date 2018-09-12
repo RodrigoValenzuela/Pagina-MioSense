@@ -13,6 +13,7 @@ i{
 #QS {
   display: block;
   position: relative;
+  background-color: #009fd7;
 }
 
 #QS::after {
