@@ -13,13 +13,12 @@ i{
 #QS {
   display: block;
   position: relative;
-  background-color: #009fd7;
 }
 
 #QS::after {
 	content: "";	
-  	background-color: #009fd7;
 	background: url("images/fondo-1.jpg");
+	background-color: #1ce2ed;
 	opacity: 0.4;
 	top: 0;
 	left: 0;
