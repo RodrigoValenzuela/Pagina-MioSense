@@ -1,3 +1,50 @@
+i{
+	color: lightblue;
+}
+
+.featurette-header{
+	color: red;
+}
+
+.featurette h1{
+	color: green;
+}
+
+#QS {
+  display: block;
+  position: relative;
+}
+
+#QS::after {
+	content: "";
+	background: url("images/fondo-1.jpg");
+	opacity: 0.4;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	z-index: -1; 
+	background-repeat: no-repeat;
+	background-size: cover; 
+}
+
+#VIS .tit{
+	color: red;
+}
+
+.local{
+	color: red;
+}
+
+.calendar{
+	color:brown;
+}
+
+.usd{
+	color: green;
+}
+
 footer{
 	background-color: black;
 	color: white;
