@@ -16,8 +16,8 @@ i{
 }
 
 #QS::after {
-	content: "";	
-	background: url("images/fondo-1.jpg");
+	content: "";
+	background: url("images/fondo-1.png");
 	background-color: #1ce2ed;
 	opacity: 0.4;
 	top: 0;
